@@ -33,7 +33,7 @@ for (let product of products) {      // Creating switch
     product.promoPrice = promoPrice.toFixed(2)
 };
 
-let customerType = "normal"
+
 
 
 
